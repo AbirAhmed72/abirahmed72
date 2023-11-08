@@ -114,6 +114,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abirahmed72&theme=darcula)](https://git.io/streak-stats) 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abirahmed72&label=Profile%20views&color=0e75b6&style=flat" alt="abirahmed72" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abirahmed72&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 </div>
 
