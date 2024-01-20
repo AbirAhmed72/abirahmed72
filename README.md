@@ -8,13 +8,13 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **a Healthcare Project called MediMatch**
+ 🔭 I’m currently working on **SELISE Digital Platforms** as an Intern Software Engineer
 
- 🌱 I’m currently learning **NextJS, React**
+ 🌱 I’m currently learning **NextJS, NestJS**
 
-👯 I am eagerly seeking collaboration opportunities for **Web App development projects which includes AI/ML**.
+👯 I am eagerly seeking collaboration opportunities for **Web App development projects which includes AI/ML/Blockchain**.
 
- 🤝 I’m looking for help with **AI/ML related projects**
+ 🤝 I’m looking for help with **AI/ML/Blockchain related projects**
 
  💬 Ask me about **FastAPI, Python, Docker**
 
