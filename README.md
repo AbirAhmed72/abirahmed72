@@ -8,17 +8,17 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **SELISE Digital Platforms** as an Intern Software Engineer
+ 🔭 I’m currently working at **SELISE Digital Platforms** as an Intern Software Engineer
 
- 🌱 I’m currently learning **NextJS, NestJS**
+ 🌱 I’m currently learning **DeepLearning, .NET**
 
-👯 I am eagerly seeking collaboration opportunities for **Web App development projects which includes AI/ML/Blockchain**.
+👯 I am eagerly seeking collaboration opportunities for **Web App development projects which include AI/ML/DL**.
 
- 🤝 I’m looking for help with **AI/ML/Blockchain related projects**
+ 🤝 I’m looking for help with **AI/ML/DL related projects**
 
- 💬 Ask me about **FastAPI, Python, Docker**
+ 💬 Ask me about **FastAPI, Python, and Microsoft Fabric**
 
- 🧑‍🏫 I love to educate about **FastAPI** and **Docker**
+ 🧑‍🏫 I love to educate about **FastAPI** and **Microsoft Fabric**
 
  📄 Know about my experiences [here](https://drive.google.com/file/d/1HRF1WRGA7SCE621ICAbZCUqh4tAdvM17/view?usp=sharing)
 
